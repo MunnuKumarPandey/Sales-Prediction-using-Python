@@ -1,1 +1,1 @@
-# CodeAlpha_SalesPredictionUsingPython
+SalesPredictionUsingPython
